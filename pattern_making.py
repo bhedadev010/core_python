@@ -29,9 +29,10 @@ for i in range(65,72):
 
 #ASCII pyramid
 
-
-
-
+j=1
+for i in range(65,72):
+    print(" "*(9-j),f" {chr(i)}"*j)
+    j=j+1
 
 #Numbers left-sided pyramid
 
