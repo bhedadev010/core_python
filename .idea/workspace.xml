@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Self_Practice/ext_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self_Practice/fibo_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self_Practice/number_guessing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Self_Practice/prime_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session-3/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session-3/for_n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session-3/guess_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session-3/prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session-3/while_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_loop_variations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-1/for_loop_variations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else_syntax_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-2/if_else_syntax_examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern_making.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-1/pattern_making.py" afterDir="false" />
-    </list>
+    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="16-7-24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,34 +37,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.ext_while.executor": "Run",
-    "Python.fibo_prac.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.for-loop_variations.executor": "Run",
-    "Python.for_n.executor": "Run",
-    "Python.for_n_num.executor": "Run",
-    "Python.for_n_sum.executor": "Run",
-    "Python.guess_number.executor": "Run",
-    "Python.if_else_syntax_examples.executor": "Run",
-    "Python.love_calculator.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pattern_making.executor": "Run",
-    "Python.pizza_order.executor": "Run",
-    "Python.prime_numbers.executor": "Run",
-    "Python.prime_prac.executor": "Run",
-    "Python.rando_pattern.executor": "Run",
-    "Python.while_loop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/dev/Tops/PYTHON/for_loop_varations",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ext_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibo_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for-loop_variations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_n.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_n_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_n_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if_else_syntax_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.love_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern_making.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizza_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rando_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/Tops/PYTHON/for_loop_varations&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dev\Tops\core_python\Session-3" />
@@ -247,7 +233,47 @@
       <option name="project" value="LOCAL" />
       <updated>1721016305653</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="13-7-24">
+      <option name="closed" value="true" />
+      <created>1721105147366</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105147366</updated>
+    </task>
+    <task id="LOCAL-00017" summary="11-7-24">
+      <option name="closed" value="true" />
+      <created>1721105185496</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105185496</updated>
+    </task>
+    <task id="LOCAL-00018" summary="16-7-24">
+      <option name="closed" value="true" />
+      <created>1721105233808</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105233808</updated>
+    </task>
+    <task id="LOCAL-00019" summary="16-7-24">
+      <option name="closed" value="true" />
+      <created>1721105306841</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105306841</updated>
+    </task>
+    <task id="LOCAL-00020" summary="16-7-24">
+      <option name="closed" value="true" />
+      <created>1721105316328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721105316328</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +281,9 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="practice" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="13-7-24" />
+    <MESSAGE value="11-7-24" />
+    <MESSAGE value="16-7-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="16-7-24" />
   </component>
 </project>
