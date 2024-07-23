@@ -30,4 +30,7 @@ print(l)
 l.__delitem__(6) #Deletes the object from the index passed as arguement
 print(l)
 
+l.extend(m) #Adds an entire list at last of former list
+print(l)
+
 
