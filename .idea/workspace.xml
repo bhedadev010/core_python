@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="16-7-24" />
+    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="29-7-24">
+      <change afterPath="$PROJECT_DIR$/Self_Practice/sim_com_interest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session-4/string_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-4/string_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session-5/list_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-5/list_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session-8/default_arguement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-8/default_arguement.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +32,9 @@
     &quot;accountId&quot;: &quot;33472922-29d9-4be1-b737-61deee70f523&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Session-5/list_slicing.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,28 +50,52 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.arbitary_arguement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_string_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.default_arguement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_task.executor&quot;: &quot;Run&quot;,
     &quot;Python.ext_while.executor&quot;: &quot;Run&quot;,
     &quot;Python.fibo_prac.executor&quot;: &quot;Run&quot;,
     &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_task.executor&quot;: &quot;Run&quot;,
     &quot;Python.for-loop_variations.executor&quot;: &quot;Run&quot;,
     &quot;Python.for_n.executor&quot;: &quot;Run&quot;,
     &quot;Python.for_n_num.executor&quot;: &quot;Run&quot;,
     &quot;Python.for_n_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.if_else_syntax_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_as_queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_as_stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_task.executor&quot;: &quot;Run&quot;,
     &quot;Python.love_calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.pattern_making.executor&quot;: &quot;Run&quot;,
     &quot;Python.pizza_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac_file_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime2_prac.executor&quot;: &quot;Run&quot;,
     &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.prime_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.radnom_questions.executor&quot;: &quot;Run&quot;,
     &quot;Python.rando_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.session-3_prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.udf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.user_defined_functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/dev/Tops/PYTHON/for_loop_varations&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/CODING LANG/PYTHON/Django Framework/NGO_project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -273,7 +306,119 @@
       <option name="project" value="LOCAL" />
       <updated>1721105316328</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="17-7-24">
+      <option name="closed" value="true" />
+      <created>1721186401449</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721186401449</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ezy">
+      <option name="closed" value="true" />
+      <created>1721186438325</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721186438325</updated>
+    </task>
+    <task id="LOCAL-00023" summary="18-7-24">
+      <option name="closed" value="true" />
+      <created>1721364062166</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721364062166</updated>
+    </task>
+    <task id="LOCAL-00024" summary="19-7-24">
+      <option name="closed" value="true" />
+      <created>1721364606029</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721364606030</updated>
+    </task>
+    <task id="LOCAL-00025" summary="20-7-24">
+      <option name="closed" value="true" />
+      <created>1721617437985</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721617437985</updated>
+    </task>
+    <task id="LOCAL-00026" summary="23-7-24">
+      <option name="closed" value="true" />
+      <created>1721734675274</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721734675274</updated>
+    </task>
+    <task id="LOCAL-00027" summary="20-7-24">
+      <option name="closed" value="true" />
+      <created>1721734714149</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721734714149</updated>
+    </task>
+    <task id="LOCAL-00028" summary="25-7-24">
+      <option name="closed" value="true" />
+      <created>1721879311861</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721879311861</updated>
+    </task>
+    <task id="LOCAL-00029" summary="26-7-24">
+      <option name="closed" value="true" />
+      <created>1721963673223</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721963673223</updated>
+    </task>
+    <task id="LOCAL-00030" summary="25-7-24">
+      <option name="closed" value="true" />
+      <created>1721965564811</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1721965564811</updated>
+    </task>
+    <task id="LOCAL-00031" summary="26-7-24">
+      <option name="closed" value="true" />
+      <created>1721991592058</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1721991592058</updated>
+    </task>
+    <task id="LOCAL-00032" summary="26-7-24">
+      <option name="closed" value="true" />
+      <created>1721992239136</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1721992239138</updated>
+    </task>
+    <task id="LOCAL-00033" summary="27-7-24">
+      <option name="closed" value="true" />
+      <created>1722052545826</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1722052545826</updated>
+    </task>
+    <task id="LOCAL-00034" summary="29-7-24">
+      <option name="closed" value="true" />
+      <created>1722220855122</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722220855122</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +429,16 @@
     <MESSAGE value="13-7-24" />
     <MESSAGE value="11-7-24" />
     <MESSAGE value="16-7-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="16-7-24" />
+    <MESSAGE value="17-7-24" />
+    <MESSAGE value="ezy" />
+    <MESSAGE value="18-7-24" />
+    <MESSAGE value="19-7-24" />
+    <MESSAGE value="23-7-24" />
+    <MESSAGE value="20-7-24" />
+    <MESSAGE value="25-7-24" />
+    <MESSAGE value="26-7-24" />
+    <MESSAGE value="27-7-24" />
+    <MESSAGE value="29-7-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="29-7-24" />
   </component>
 </project>
