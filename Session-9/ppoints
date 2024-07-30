@@ -1,0 +1,39 @@
+OOP Features
+
+
+1) CLASS : Class is a group of different types of variables and functions
+
+
+2) OBJECT : Object is an instance of class
+
+
+3) INHERITANCE : -> The object of one class can inherit the properties of object of another class.
+                 -> Creating a new class from an existing class.
+
+              Types of inheritance:
+
+               -> Single Inheritance
+               -> MultiLevel Inheritance
+               -> Multiple Inheritance
+               -> Hierarchical Inheritance
+               -> Hybrid Inheritance
+
+
+4) POLYMORPHISM : One name multiple form.  Types of polymorphism:
+
+                -> Compile time polymorphism (Method Overloading): When there is more than one method in same
+                                                                   class have same name but with different
+                                                                   number of arguments.
+
+
+                -> Run time polymorphism (Method Over riding) : When there is same method prototype in your
+                                                                base class and derived class and if you call
+                                                                method using object of derived class then only
+                                                                derived class method will be called. In this case
+                                                                derived class over rides base class.
+
+
+5) ABSTRACTION : Only give necessary info and keep everything else
+
+
+6) ENCAPSULATION : To bind a code and data into a single unit
