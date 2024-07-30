@@ -1,8 +1,9 @@
 
-def test(a,b,c,d):
+def test(a,b,c=3,d=2):
     print("A :",a," B :",b," C :",c," D :",d)
 
-test(1,2,3,4)
+test(1,2)
+#if default arguement is given from last it is not necessary to give every arguement
 
 
 #if one default arguement is given then all variables must have default arguements
