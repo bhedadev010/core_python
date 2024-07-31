@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="29-7-24">
-      <change afterPath="$PROJECT_DIR$/Self_Practice/sim_com_interest.py" afterDir="false" />
+    <list default="true" id="bb15d7e6-492a-4930-bfe5-3f08492d31fc" name="Changes" comment="30-7-24">
+      <change afterPath="$PROJECT_DIR$/Self_Practice/class_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session-9/bank_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session-4/string_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-4/string_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Session-5/list_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-5/list_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session-8/default_arguement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session-8/default_arguement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -35,6 +42,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Session-5/list_slicing.py" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,60 +56,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.arbitary_arguement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_string_info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.default_arguement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ext_while.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibo_prac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_management.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for-loop_variations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_n.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_n_num.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_n_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_else_syntax_examples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_as_queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_as_stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_slicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.love_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pattern_making.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pizza_order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prac_file_task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime2_prac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_prac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.radnom_questions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rando_pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.session-3_prac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.udf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_defined_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/dev/CODING LANG/PYTHON/Django Framework/NGO_project&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.arbitary_arguement.executor": "Run",
+    "Python.bank_demo.executor": "Run",
+    "Python.bmi.executor": "Run",
+    "Python.change_calculator.executor": "Run",
+    "Python.class_demo.executor": "Run",
+    "Python.class_prac.executor": "Run",
+    "Python.count_string_info.executor": "Run",
+    "Python.default_arguement.executor": "Run",
+    "Python.dictionary_demo.executor": "Run",
+    "Python.dictionary_task.executor": "Run",
+    "Python.ext_while.executor": "Run",
+    "Python.fibo_prac.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.file_management.executor": "Run",
+    "Python.file_task.executor": "Run",
+    "Python.for-loop_variations.executor": "Run",
+    "Python.for_n.executor": "Run",
+    "Python.for_n_num.executor": "Run",
+    "Python.for_n_sum.executor": "Run",
+    "Python.guess_number.executor": "Run",
+    "Python.if_else_syntax_examples.executor": "Run",
+    "Python.list_as_queue.executor": "Run",
+    "Python.list_as_stack.executor": "Run",
+    "Python.list_demo.executor": "Run",
+    "Python.list_functions.executor": "Run",
+    "Python.list_slicing.executor": "Run",
+    "Python.list_task.executor": "Run",
+    "Python.love_calculator.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.maths_q.executor": "Run",
+    "Python.module_demo.executor": "Run",
+    "Python.number_guessing_game.executor": "Run",
+    "Python.pattern_making.executor": "Run",
+    "Python.pizza_order.executor": "Run",
+    "Python.prac_file_task.executor": "Run",
+    "Python.prime2_prac.executor": "Run",
+    "Python.prime_numbers.executor": "Run",
+    "Python.prime_prac.executor": "Run",
+    "Python.radnom_questions.executor": "Run",
+    "Python.rando_pattern.executor": "Run",
+    "Python.sequence_add.executor": "Run",
+    "Python.sequence_sum.executor": "Run",
+    "Python.session-3_prac.executor": "Run",
+    "Python.sim_com_interest.executor": "Run",
+    "Python.slicing.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.string_functions.executor": "Run",
+    "Python.tuple_functions.executor": "Run",
+    "Python.udf.executor": "Run",
+    "Python.user_defined_functions.executor": "Run",
+    "Python.while_loop.executor": "Run",
+    "Python.work_q.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/dev/Tops/core_python/Session-8",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.folder": "D:/dev/Tops/core_python/Session-8"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\Tops\core_python\Session-8" />
       <recent name="D:\dev\Tops\core_python\Session-3" />
       <recent name="D:\dev\Tops\core_python\Session-2" />
       <recent name="D:\dev\Tops\core_python\Session-1" />
@@ -418,7 +442,71 @@
       <option name="project" value="LOCAL" />
       <updated>1722220855122</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="25-7-24">
+      <option name="closed" value="true" />
+      <created>1722221796212</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1722221796212</updated>
+    </task>
+    <task id="LOCAL-00036" summary="25-7-24">
+      <option name="closed" value="true" />
+      <created>1722221844046</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1722221844046</updated>
+    </task>
+    <task id="LOCAL-00037" summary="29-7-24">
+      <option name="closed" value="true" />
+      <created>1722222344147</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1722222344147</updated>
+    </task>
+    <task id="LOCAL-00038" summary="25-7-24">
+      <option name="closed" value="true" />
+      <created>1722222729905</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1722222729905</updated>
+    </task>
+    <task id="LOCAL-00039" summary="29-7-24">
+      <option name="closed" value="true" />
+      <created>1722223439761</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1722223439761</updated>
+    </task>
+    <task id="LOCAL-00040" summary="29-7-24">
+      <option name="closed" value="true" />
+      <created>1722225550535</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1722225550535</updated>
+    </task>
+    <task id="LOCAL-00041" summary="27-7-24">
+      <option name="closed" value="true" />
+      <created>1722307070711</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1722307070711</updated>
+    </task>
+    <task id="LOCAL-00042" summary="30-7-24">
+      <option name="closed" value="true" />
+      <created>1722353610470</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1722353610470</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -435,10 +523,11 @@
     <MESSAGE value="19-7-24" />
     <MESSAGE value="23-7-24" />
     <MESSAGE value="20-7-24" />
-    <MESSAGE value="25-7-24" />
     <MESSAGE value="26-7-24" />
-    <MESSAGE value="27-7-24" />
+    <MESSAGE value="25-7-24" />
     <MESSAGE value="29-7-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="29-7-24" />
+    <MESSAGE value="27-7-24" />
+    <MESSAGE value="30-7-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="30-7-24" />
   </component>
 </project>
