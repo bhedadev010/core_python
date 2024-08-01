@@ -1,0 +1,12 @@
+Single =  a -> b
+
+Multilevel = a -> b -> c
+
+Multiple = a -> c
+           b -> c
+
+Hierarchical = a -> b
+               a -> c
+
+Hybrid =  a -> b -> c
+          b -> d
