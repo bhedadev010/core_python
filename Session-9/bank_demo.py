@@ -47,7 +47,7 @@ while True:
 
     elif choice == 3:
         print("Current Balance : \n")
-        b1.b()
+        b1.checkBalance()
         print("*" * 40)
 
     elif choice == 4:
